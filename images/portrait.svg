@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Angba portrait illustration</title>
+  <desc id="desc">A stylized portrait of Angba with geometric hair and warm colours.</desc>
+  <defs>
+    <linearGradient id="shirtGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#244bff"/>
+      <stop offset="100%" stop-color="#1b35b7"/>
+    </linearGradient>
+    <linearGradient id="skinGrad" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8e2d3"/>
+      <stop offset="100%" stop-color="#f0c5a7"/>
+    </linearGradient>
+    <linearGradient id="hairGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f1f22"/>
+      <stop offset="100%" stop-color="#090909"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#202020" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <path d="M144 519C170 469 196 440 239 421L253 631H124L144 519Z" fill="#1d2126"/>
+    <path d="M495 519C469 469 443 440 401 421L387 631H516L495 519Z" fill="#1d2126"/>
+    <path d="M200 575C215 512 263 468 320 468C377 468 425 512 440 575L449 640H191L200 575Z" fill="url(#shirtGrad)"/>
+    <path d="M282 530L320 468L358 530L380 640H260L282 530Z" fill="#d5f36a" opacity="0.8"/>
+    <path d="M216 486C242 516 266 534 320 534C374 534 398 516 424 486L446 640H194L216 486Z" fill="#244bff"/>
+
+    <path d="M200 254C200 183 255 116 320 116C385 116 440 183 440 254V333C440 393 390 440 320 440C250 440 200 393 200 333V254Z" fill="url(#skinGrad)" stroke="#1c1c1c" stroke-width="8"/>
+
+    <path d="M219 275C236 157 287 106 355 104C397 103 430 124 449 160C475 206 474 268 460 311C457 319 453 325 448 331C435 280 415 236 382 208C349 181 300 170 270 195C246 214 232 245 219 275Z" fill="url(#hairGrad)" stroke="#1c1c1c" stroke-width="8"/>
+
+    <path d="M204 299C185 267 190 212 223 162C253 119 303 91 351 91C408 91 455 129 479 186C496 229 493 293 473 334C452 378 414 411 369 427L364 343C355 319 327 300 291 297L204 299Z" fill="url(#hairGrad)" stroke="#1c1c1c" stroke-width="8"/>
+
+    <path d="M292 215C271 201 248 203 235 222C219 245 218 288 246 308C259 317 271 319 282 315C295 311 303 300 304 284C305 262 303 236 292 215Z" fill="#141517" opacity="0.92"/>
+    <path d="M348 215C369 201 392 203 405 222C421 245 422 288 394 308C381 317 369 319 358 315C345 311 337 300 336 284C335 262 337 236 348 215Z" fill="#141517" opacity="0.92"/>
+
+    <path d="M276 187C291 170 308 162 320 162C332 162 349 170 364 187L379 220C352 235 335 241 320 241C305 241 288 235 261 220L276 187Z" fill="#1b1d20"/>
+
+    <path d="M265 331C283 347 299 356 319 356C339 356 353 347 371 331" stroke="#1d1d1d" stroke-width="9" stroke-linecap="round"/>
+    <path d="M285 331C290 323 299 318 308 319C316 320 321 325 323 331" stroke="#cf7d63" stroke-width="7" stroke-linecap="round"/>
+    <path d="M355 331C350 323 341 318 332 319C324 320 319 325 317 331" stroke="#cf7d63" stroke-width="7" stroke-linecap="round"/>
+
+    <path d="M261 252C275 242 289 239 302 242" stroke="#1c1c1c" stroke-width="8" stroke-linecap="round"/>
+    <path d="M379 252C365 242 351 239 338 242" stroke="#1c1c1c" stroke-width="8" stroke-linecap="round"/>
+
+    <ellipse cx="285" cy="283" rx="12" ry="14" fill="#1d1d1d"/>
+    <ellipse cx="355" cy="283" rx="12" ry="14" fill="#1d1d1d"/>
+    <circle cx="288" cy="279" r="4" fill="#f5f1ed"/>
+    <circle cx="358" cy="279" r="4" fill="#f5f1ed"/>
+
+    <path d="M296 367C306 376 314 381 320 381C326 381 334 376 344 367" stroke="#bd6c53" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M257 416C271 399 297 389 320 389C343 389 369 399 383 416L354 447H286L257 416Z" fill="#d97f5f" opacity="0.8"/>
+
+    <path d="M210 351C192 412 176 444 143 475" stroke="#ff713d" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+    <path d="M430 351C448 412 464 444 497 475" stroke="#ff713d" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+  </g>
+</svg>
