@@ -11,7 +11,7 @@
   --surface: #fffaf0;
   --card: #ffffff;
   --text: #202020;
-  --muted: #69665f;
+  --muted: #57544e;
   --blue: #244bff;
   --orange: #ff713d;
   --lime: #d5f36a;
@@ -365,7 +365,7 @@ textarea:focus {
 }
 
 input::placeholder {
-  color: #89847b;
+  color: #69665f;
 }
 
 textarea {

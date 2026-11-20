@@ -44,3 +44,9 @@ Open the project folder in VS Code, install the **Live Server** extension if nee
 ![W3C HTML Validator: 0 errors and 0 warnings](screenshots/w3c.png)
 
 - W3C HTML Validator: 0 errors and 0 warnings.
+
+### Firefox Accessibility Inspector
+
+![Firefox Accessibility Inspector](screenshots/firefox.png)
+
+Firefox Accessibility Tools was used to inspect the portfolio's accessibility tree and identify potential color contrast issues. After correcting the reported contrast issues, a final check reported no remaining issues.
