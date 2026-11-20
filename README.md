@@ -1,4 +1,4 @@
-# Angba Portfolio
+# Angelo Portfolio
 
 A personal portfolio featuring selected projects, background information, and contact details.
 
@@ -31,8 +31,16 @@ A personal portfolio featuring selected projects, background information, and co
 
 Open the project folder in VS Code, install the **Live Server** extension if needed, then right-click `index.html` and select **Open with Live Server**.
 
-## Accessibility testing
+## Accessibility Testing
 
-- **Lighthouse Accessibility:** 100/100
-- **W3C HTML Validator:** 0 errors and 0 warnings
-- **Firefox Accessibility Inspector:** No issues detected in the final scan
+### Chrome Lighthouse
+
+![Chrome Lighthouse Accessibility: 100/100](screenshots/lighthouse.png)
+
+- Chrome Lighthouse: Accessibility 100/100.
+
+### W3C HTML Validator
+
+![W3C HTML Validator: 0 errors and 0 warnings](screenshots/w3c.png)
+
+- W3C HTML Validator: 0 errors and 0 warnings.
